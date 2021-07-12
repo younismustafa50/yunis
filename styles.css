@@ -1,0 +1,131 @@
+.ist{
+    background-color: #CDF0EA;
+    text-align: center;
+    padding-top: 70px;
+    
+}
+body{
+    margin: 0;
+    background-color: #CDF0EA;
+
+    
+}
+.bottom-cloud
+{
+    position: absolute;
+}
+.top-cloud
+{
+    position: relative;
+    left: 180px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    text-align: center;
+
+
+}
+p{
+    font-size: 1rem;
+    color: #40514e;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    line-height: 2;
+}
+
+h3{
+color: #66BFBF
+;
+
+
+}
+.prog{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.helo
+{
+    margin: 35px auto 50px 410px;
+    width: 50%;
+    text-align: center;
+    
+}
+.skill{
+    width: 50%;
+    margin-left:410px;
+    margin-top: 40px;
+    background-color: #CDF0EA;
+    margin-bottom: 50px;
+
+   
+}
+.inner{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.btn{
+    background: lightseagreen
+    ;
+    color: cornsilk
+    ;
+    padding: 15px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.contact-me
+{
+    width: 50%;
+    text-align: center;
+    margin-left: 410px;
+    line-height: 2;
+    background-color: #CDF0EA;
+
+}
+.khan{
+    border-width: 4px 0 0 0;
+    border-style: dotted;
+    width: 4%;
+    text-align: center;
+    margin-left: 765px;
+    border-color: grey;
+    margin-bottom: 50px;
+
+}
+.text
+{
+    margin-bottom: 30px;
+}
+.bottom-container{
+    text-align: center;
+    margin-top: 60px;
+    background: #66bfbf;
+    padding: 50px;
+}
+.footer-link{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    color:cornsilk;
+    
+}
+.twitter{
+    margin-left: 20px;
+}
+.app{
+    margin-left: 20px;
+}
+.mountain
+{
+    margin-bottom: 50px;
+}
